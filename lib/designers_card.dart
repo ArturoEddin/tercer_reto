@@ -18,7 +18,7 @@ class DesignersCard extends StatelessWidget{
       width: 80,
       margin: EdgeInsets.only(
       top: 20,
-      left: 10,
+      left: 20,
       right: 20
       ),
 
@@ -61,7 +61,7 @@ class DesignersCard extends StatelessWidget{
         color: (disabled ? Color(0xFFC9C9C9) : Color(0xFFCB4E4A))
       ),
       margin: EdgeInsets.only(
-        left: 30
+        left: 20
       ),
       child: InkWell(
         onTap: () {},

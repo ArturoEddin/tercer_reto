@@ -8,7 +8,7 @@ class GradientBackDesigners extends StatelessWidget {
     final iconoAppBar = Container(
       margin: EdgeInsets.only(
         left: 20,
-        top: 30
+        top: 25
       ),
       child: InkWell(
         child: Icon(Icons.menu_rounded,color: Colors.white,) ,
@@ -19,7 +19,7 @@ class GradientBackDesigners extends StatelessWidget {
 
     final texAppBar =  Container (
      margin: EdgeInsets.only(
-       left: 100,
+       left: 110,
        top: 30
      ),
     child: Text(title,style: TextStyle(
