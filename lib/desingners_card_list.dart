@@ -7,7 +7,7 @@ class DesingnersCardList extends StatelessWidget{
     // TODO: implement build
     return Container(
       margin: EdgeInsets.only(
-        top: 30,
+        top: 40,
       ),
 
       child:   Column(
